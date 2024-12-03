@@ -1,5 +1,9 @@
 # Interfaces, Testing and Mocking
 
+### Overview
+
+In this session, I demonstrate how to use interfaces and the gomock tool in Go. Screencast is available at https://youtu.be/lzOhQ_xaIds
+
 
 ### What are interfaces?
 
